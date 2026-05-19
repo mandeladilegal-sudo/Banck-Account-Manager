@@ -1,0 +1,4 @@
+Deposit : +$1000 | New balance : $1000
+Withdraw : $150 | new balance : $850
+Deposit : +$1500 | New balance : $1500
+Withdraw : $500 | new balance : $1000
